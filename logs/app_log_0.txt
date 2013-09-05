@@ -1,0 +1,28 @@
+[2013-03-22 10:00:37 AM] com.bnsoft.cafe_cmd_server2.ServerRunnable run
+	INFO: Server started!
+[2013-03-22 10:00:37 AM] com.bnsoft.cafe_cmd_server2.ServerRunnable run
+	INFO: Server listening on port 8800
+[2013-04-23 09:03:10 PM] com.bnsoft.cafe_cmd_server2.ServerRunnable run
+	INFO: Server started!
+[2013-04-23 09:03:10 PM] com.bnsoft.cafe_cmd_server2.ServerRunnable run
+	INFO: Server listening on port 8800
+[2013-04-23 09:23:12 PM] com.bnsoft.cafe_cmd_server2.ServerRunnable run
+	INFO: Server started!
+[2013-04-23 09:23:12 PM] com.bnsoft.cafe_cmd_server2.ServerRunnable run
+	INFO: Server listening on port 8800
+[2013-07-09 02:38:11 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server started!
+[2013-07-09 02:38:11 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server listening on port 8800
+[2013-07-09 07:00:21 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server started!
+[2013-07-09 07:00:21 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server listening on port 8800
+[2013-07-11 09:40:15 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server started!
+[2013-07-11 09:40:15 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server listening on port 8800
+[2013-07-11 09:53:35 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server started!
+[2013-07-11 09:53:36 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server listening on port 8800

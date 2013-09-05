@@ -1,0 +1,23 @@
+[2013-09-01 07:49:38 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server started!
+[2013-09-01 07:49:38 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Server listening on port 8800
+[2013-09-01 07:50:38 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Connection accepted: Socket[addr=/192.168.1.11,port=41857,localport=8800]
+[2013-09-01 07:50:38 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Update requested from client Socket[addr=/192.168.1.11,port=41857,localport=8800]
+[2013-09-01 07:50:38 PM] com.bnsoft.cafe_cmd_server.U errOut
+	SEVERE: An error occured while updating client's database!
+java.io.FileNotFoundException: db\goods.xls (Не удается найти указанный файл)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.bnsoft.cafe_cmd_server.ClientThread.run(ClientThread.java:52)
+	at com.bnsoft.cafe_cmd_server.ClientThread.<init>(ClientThread.java:35)
+	at com.bnsoft.cafe_cmd_server.ServerThread.run(ServerThread.java:39)
+
+[2013-09-01 09:03:22 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Generating base sample file + additional 0 items
+[2013-09-01 09:03:23 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Sample file written!
+[2013-09-01 10:16:36 PM] com.bnsoft.cafe_cmd_server.U infoOut
+	INFO: Stopping...

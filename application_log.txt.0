@@ -1,0 +1,17 @@
+мар 17, 2013 10:33:18 PM com.bnsoft.cafe_cmd_server2.ClientThread run
+SEVERE: Exception: 
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at com.bnsoft.cafe_cmd_server2.ClientThread.run(ClientThread.java:40)
+	at com.bnsoft.cafe_cmd_server2.ClientThread.<init>(ClientThread.java:30)
+	at com.bnsoft.cafe_cmd_server2.ServerRunnable.run(ServerRunnable.java:45)
+	at java.lang.Thread.run(Unknown Source)
+
